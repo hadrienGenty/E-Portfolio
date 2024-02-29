@@ -1,7 +1,7 @@
 ---
 title: Parcours professionnel 
 publishDate: 2020-03-04 00:00:00
-img: /assets/ca.jpg
+img: /portfolio/assets/ca.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
 tags:
