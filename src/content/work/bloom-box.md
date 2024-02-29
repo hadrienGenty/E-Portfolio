@@ -4,20 +4,24 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Drône
+  - Photographie
+  - Voyages
+  - Montages
 ---
+Le drone est devenu une passion récente mais captivante qui a pris une place significative dans mon quotidien. Lors de ma spécialisation en aéronautique au cours de mon dernier cycle ingénieur, j'ai eu l'opportunité de participer à un projet majeur qui consistait à concevoir et réaliser un drone de bout en bout, en collaboration avec une équipe. Cette expérience m'a permis de plonger dans la technologie des drones, de contribuer avec fierté à la réussite de notre projet collectif.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Par ailleurs, la photographie a toujours été une passion transmise par mon grand-père, photographe professionnel. L'acquisition d'un drone m'a offert la possibilité de combiner ma nouvelle passion pour le pilotage avec ma passion de capturer des paysages uniques à travers des photos et des vidéos. Cet appareil me permet d'explorer de nouveaux horizons lors de mes voyages et de partager mes réalisations visuelles avec mes proches, ajoutant ainsi une dimension créative et artistique à mes aventures.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+En parlant de voyages, ils occupent une place centrale dans ma vie, nourrissant ma curiosité pour les cultures du monde. J'ai eu la chance de voyager dans plusieurs pays européens et au Canada, mais c'est lors de mon semestre à l'étranger dans le cadre de mon cycle ingénieur que j'ai réellement découvert ma passion pour la découverte culturelle. Mon choix s'est porté sur Singapour, un véritable carrefour culturel au cœur de l'Asie, où j'ai eu l'occasion de vivre une expérience professionnelle enrichissante chez Thalès et d'explorer les merveilles de l'Asie du Sud-Est.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Mes voyages ultérieurs m'ont emmené dans des endroits extraordinaires comme l'île de Sumatra en Indonésie, où j'ai eu le privilège de faire un trek dans la jungle et de rencontrer des orangs-outans dans leur habitat naturel préservé. J'ai également été profondément marqué par une rencontre avec des enfants philippins sur l'île de Palawan, où leur joie de vivre et leur résilience m'ont inspiré et touché au plus profond de mon être.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+En somme, mes passions pour le drone, la photographie et les voyages reflètent ma soif d'aventure, de découverte et de connexion avec le monde qui m'entoure. Ces expériences enrichissantes ont façonné ma vision du monde et ont nourri ma créativité, ma curiosité et ma sensibilité
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+
+Je vous laisse découvrir l'une de mes vidéos filmée et montée par mes soins : 
+
+
+![Caption](/assets/video.mov)

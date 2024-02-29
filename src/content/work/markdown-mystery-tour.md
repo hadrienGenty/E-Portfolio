@@ -1,13 +1,17 @@
 ---
 title: Parcours académique
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/epf.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
 tags:
   - Aéronautique
-  - Projets
   - Industrialisation
+  - Conception
+  - Dimmensionnement 
+  - Commandes 
+  - Banc d'essais 
+  - Management de projet
 ---
 #### Mes études 
 
