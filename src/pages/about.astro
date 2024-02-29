@@ -15,12 +15,13 @@ import Grid from '../components/Grid.astro';
 				title="En résumé"
 				tagline="Après un diplôme d’ingénieur, j'aimerais intégrer un Mastère Spécialisé en  Management Industriel et en Supply Chain dans le secteur de l’aéronautique, spatiale et défense à partir de Septembre 2024."
 			>
+			<div class="image">
 				<img
-					width="1553"
-					height="873"
-					src="/assets/at-work.jpg"
-					alt="Jeanine White at work with a colleague"
+				src="/assets/profil2.jpg"
+				alt="Jeanine White at work with a colleague"
 				/>
+			</div>
+			
 			</Hero>
 
 			<section>
@@ -51,7 +52,7 @@ import Grid from '../components/Grid.astro';
 				<div class="content">
 					<b>2019</b><br/><p>Baccalauréat Scientifique, spécialité Science de la Vie et de la Terre, option Mathématiques</p> <br/>
 					<b>2019-2022</b><br/><p>Cycle licence d'ingénierie généraliste à l'EPF</p><br/>
-					<b>2022-2024</b><br/><p>Master d'ingénierie en Aéronautique et Spacial avec spécialité Industrialisation et Production à l'EPF</p>
+					<b>2022-2024</b><p>Master d'ingénierie en Aéronautique et Spacial avec spécialité Industrialisation et Production à l'EPF</p>
 				</div>
 			</section>
 			<section>
@@ -79,6 +80,14 @@ import Grid from '../components/Grid.astro';
 		margin-top: 1.5rem;
 		border-radius: 1.5rem;
 		box-shadow: var(--shadow-md);
+		width: 50%;
+		height: auto;
+		display: block;
+	}
+
+	.image {
+		display: flex;
+		justify-content: center;
 	}
 
 	section {

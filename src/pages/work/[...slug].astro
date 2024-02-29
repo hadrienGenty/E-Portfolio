@@ -27,7 +27,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<BaseLayout title={entry.data.title} description={entry.data.description}>
+<BaseLayout title={entry.data.title + " | Hadrien Genty-Franconin"} description={entry.data.description}>
 	<div class="stack gap-20">
 		<div class="stack gap-15">
 			<header>
@@ -36,7 +36,7 @@ const { Content } = await entry.render();
 					<Hero title={entry.data.title} align="start">
 						<div class="details">
 							<div class="tags">
-								{entry.data.tags.map((t) => <Pill>{t}</Pill>)}
+								{entry.data.tags.map((t) => <Pill>{t}</Pill>)} 
 							</div>
 							<p class="description">{entry.data.description}</p>
 						</div>
@@ -147,6 +147,7 @@ const { Content } = await entry.render();
 		.content :global(blockquote) {
 			font-size: var(--text-2xl);
 		}
+
 	}
 
 </style>
