@@ -24,4 +24,4 @@ En somme, mes passions pour le drone, la photographie et les voyages reflètent 
 Je vous laisse découvrir l'une de mes vidéos filmée et montée par mes soins : 
 
 
-![Caption](/assets/video.mov)
+![Caption](/portfolio/assets/video.mov)

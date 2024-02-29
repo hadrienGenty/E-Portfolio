@@ -31,7 +31,7 @@ J’ai également pu réaliser des projets en lien avec ma spécialisation. J’
 
 Avec une équipe de 8 personnes, nous avons entrepris le défi passionnant de concevoir une gouverne de profondeur pour un aéronef et de la piloté. Notre projet nous a confrontés à une série de défis, allant de la modélisation à la gestion des contraintes aéronautiques telles que le poids, la taille, l’aérodynamisme et la résistance. Nous avons utilisé divers outils et logiciels, notamment Catia et Fusion 360 pour la modélisation, ainsi que des calculs sur Excel, Matlab et Simulink pour le dimensionnement et les commandes. Divers choix de conception ont été réalisé pour actionner la gouverne comme le type de vérin, la manière de l’accrocher, le matériau utilisé. Notre collaboration a exigé des choix de conception concertés et une optimisation constante de notre travail pour atteindre nos objectifs dans les délais impartis.
 
-![gouverne](/assets/gouverne.jpg)
+![gouverne](/portfolio/assets/gouverne.jpg)
 
 ##### Projet drône
 
@@ -39,7 +39,7 @@ Nous étions une équipe de 10 personnes chargée de concevoir un drone de A à 
 
 Pendant le projet, j'ai été chargé de choisir et de tester les capteurs utilisés pour la localisation du drone dans l'espace. Après avoir effectué ces choix, j'ai mis en place des bancs d'essais pour évaluer les capteurs et j'ai développé un système de filtrage à l'aide d'Arduino pour récupérer et exploiter les données. La coordination de nos efforts et la communication efficace ont été cruciales pour progresser dans la même direction et répartir les ressources en cas de besoin.
 
-![drone](/assets/drone.jpg)
+![drone](/portfolio/assets/drone.jpg)
 
 
 
